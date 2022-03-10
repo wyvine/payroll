@@ -1,6 +1,6 @@
 /*
 PAYROLL SYSTEM
-BY MERCY NJOKI
+BY IVYNE WAMBUI
 08/03/2022
 MIT LICENCE
 C89 COMPILER
@@ -14,7 +14,7 @@ int main()
 {
     char name[100],kra[20];
     int hours ,overtimepay,gross ,tax,net;
-    printf ("mercy\'s factory payrol\n");
+    printf ("IVYNE WAMBUI\'s factory payrol\n");
     //capture input
     printf("enter name:");
     gets(name);
